@@ -13,10 +13,10 @@
 
 }
 .first{
-    height:120px;
+    height: 69px;
     width:10%;
     background-color: aqua;
-    
+    color: azure;
     border: 1px solid black;
 }
 .second{
